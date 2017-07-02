@@ -5,13 +5,13 @@ logo: /hcz-jekyll-blog/static/img/avatar.png
 github: https://github.com/leeteukki
 about: Freelance developer
 
-baseurl: ""
-url: ""
+baseurl: "https://leeteukki.github.io/snue_patent.github.io/"
+url: "https://leeteukki.github.io/snue_patent.github.io/"
 
 allowsearch: true
 
-disqus_shortname: aboutashu
-google_analytics: UA-72862926-1
+disqus_shortname: snue_patent
+google_analytics: UA-101957512-1
 
 share:
   twitter_username: \#
