@@ -1,21 +1,21 @@
 [
 	{
 		"name": "1. 출원인코드 부여",
-		"image": "1-page-image.jpg",
+		"image": "/static/projects/1-page-image.jpg",
 		"url": "#",
 		"date": "2017-07-02",
 		"tags": ["HTML"]
 	},
 	{
 		"name": "2. 소프트웨어 설치",
-		"image": "placeholder.jpg",
+		"image": "/static/projects/1-page-image.jpg",
 		"url": "#",
 		"date": "2017-07-02",
 		"tags": ["HTML"]
 	},
 	{
 		"name": "3. 공인인증서 등록",
-		"image": "placeholder.jpg",
+		"image": "/static/projects/1-page-image.jpg",
 		"url": "#",
 		"date": "2017-07-02",
 		"tags": ["HTML"]
